@@ -1,0 +1,10 @@
+C:\Code\PaymentServiceTest\PaymentServices\PaymentServices\bin\Debug\LearnSolidAndTesting.dll
+C:\Code\PaymentServiceTest\PaymentServices\PaymentServices\bin\Debug\LearnSolidAndTesting.pdb
+C:\Code\PaymentServiceTest\PaymentServices\PaymentServices\obj\Debug\PaymentServices.csprojAssemblyReference.cache
+C:\Code\PaymentServiceTest\PaymentServices\PaymentServices\obj\Debug\PaymentServices.csproj.CoreCompileInputs.cache
+C:\Code\PaymentServiceTest\PaymentServices\PaymentServices\obj\Debug\LearnSolidAndTesting.dll
+C:\Code\PaymentServiceTest\PaymentServices\PaymentServices\obj\Debug\LearnSolidAndTesting.pdb
+D:\Refactor\PaymentServices\obj\Debug\PaymentServices.csproj.AssemblyReference.cache
+D:\Refactor\PaymentServices\obj\Debug\PaymentServices.csproj.SuggestedBindingRedirects.cache
+D:\Refactor\PaymentServices\obj\Debug\PaymentServices.csproj.CoreCompileInputs.cache
+D:\Refactor\PaymentServices\obj\Debug\LearnSolidAndTesting.pdb

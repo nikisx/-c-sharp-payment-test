@@ -1,0 +1,10 @@
+D:\Refactor\PaymentServices\obj\Debug\net6.0\PaymentServices.csproj.AssemblyReference.cache
+D:\Refactor\PaymentServices\obj\Debug\net6.0\PaymentServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Refactor\PaymentServices\obj\Debug\net6.0\PaymentServices.csproj.CoreCompileInputs.cache
+D:\Refactor\PaymentServices\bin\Debug\net6.0\LearnSolidAndTesting.deps.json
+D:\Refactor\PaymentServices\bin\Debug\net6.0\LearnSolidAndTesting.dll
+D:\Refactor\PaymentServices\bin\Debug\net6.0\LearnSolidAndTesting.pdb
+D:\Refactor\PaymentServices\obj\Debug\net6.0\LearnSolidAndTesting.dll
+D:\Refactor\PaymentServices\obj\Debug\net6.0\refint\LearnSolidAndTesting.dll
+D:\Refactor\PaymentServices\obj\Debug\net6.0\LearnSolidAndTesting.pdb
+D:\Refactor\PaymentServices\obj\Debug\net6.0\ref\LearnSolidAndTesting.dll
